@@ -1,0 +1,13 @@
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.exe
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.deps.json
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.runtimeconfig.json
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.runtimeconfig.dev.json
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.dll
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\bin\Debug\netcoreapp3.1\RepeatedString.pdb
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.csprojAssemblyReference.cache
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.AssemblyInfoInputs.cache
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.AssemblyInfo.cs
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.csproj.CoreCompileInputs.cache
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.dll
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.pdb
+C:\Users\juhi3\Development\CompareTheTriplets\RepeatedString\RepeatedString\obj\Debug\netcoreapp3.1\RepeatedString.genruntimeconfig.cache
